@@ -24,9 +24,16 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <title>WDDM115 - Exercise 4</title>
+
+     <!--Fonts-->
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@200&display=swap" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css2?family=Questrial&display=swap" rel="stylesheet">
+     
   </head>
-  <body>
+  <body onload="checkCookies()">
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
     <!--
@@ -39,5 +46,26 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+      <!--background-->
+
+    <!--Muzzammil'sCommitmentNo.3(CookiesCheckMethod)-->
+    <p id="cookiesDemo"></p>
+
+    <script>
+        function checkCookies() {
+            let text = "";
+            if (navigator.cookieEnabled == true) {
+                text = "Cookies are enabled.";
+            } else {
+                text = "Cookies are not enabled.";
+            }
+            document.getElementById("cookiesDemo").innerHTML = text;
+        }
+    </script>
+
+    <!-- Vyomesh's Commitment - Different Mouse Events -->
+    <!-- <script src="new.js"></script> -->
+
   </body>
 </html>

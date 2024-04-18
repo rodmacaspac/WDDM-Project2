@@ -1,0 +1,804 @@
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+.Rectangle-21 {
+  width: 1440px;
+  height: auto;
+  padding: 33px 0 39px 22px;
+  background-image: linear-gradient(306deg, #f9d3ab, #f9d6b0ee , #fff0);
+  position: relative;
+}
+
+.nav {
+  position: absolute;
+}
+
+img.Navigation {
+  width: 1500px;
+  height: 102px;
+  margin: 0 0 41px;
+  padding: 14px 1057px 15px 0;
+  position: absolute;
+}
+
+.clicks{
+  position: absolute;
+  left: 430px;
+  top: 87px;
+}
+
+a{
+
+  text-decoration: none;
+  position: relative;
+}
+
+a.main{
+  margin: 0px 0px 0px 160px;
+}
+
+a.services{
+  margin: 0px 0px 0px 60px;
+}
+
+a.concerns{
+  margin-left: 49px;
+}
+
+a.products{
+  margin-left: 60px;
+}
+
+a.contact{
+  margin-left: 70px;
+}
+
+
+
+
+
+
+img.Word-logo {
+  width: 80px;
+  height: 73px;
+  margin: 0 241px 1000 0;
+  padding-top: 25px;
+  position: relative;
+
+}
+
+img.SKIN-logo {
+  width: 250px;
+  height: 65px;
+  margin: 5px 0 3px 71px;
+  position: relative;
+}
+
+/*body*/
+.Rectangle-22 {
+width: 1263px;
+height: 651px;
+margin: 70px 66px 0 0px;
+padding: 40px 0 0 83px;
+background-image: linear-gradient(117deg, #a98255 -12%, #f4f4f4 46%);
+}
+
+
+img.Home-model {
+  width: 600px;
+  height: 651px;
+  margin: 0 0 0 662px;
+  position: absolute;
+}
+
+
+/*TEXT*/
+
+
+.Your-hub-for-All-Skin-Care-Treatments {
+  width: 725px;
+  height: 352px;
+  margin: 57px 500px 34px 0;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 96px;
+  font-weight: 200;
+  font-stretch: condensed;
+  font-style: normal;
+  line-height: 2.3cm;
+  letter-spacing: 19.2px;
+  text-align: left;
+  color: #000;
+  position: relative;
+}
+
+.TESTIMONIALS {
+  width: 352px;
+  height: 37px;
+  margin: 34px 465px 171px 408px;
+  font-family: "Questrial", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 5cm;
+  letter-spacing: 6.4px;
+  text-align: left;
+  color: #000;
+  position: relative;
+  text-decoration: underline
+}
+
+
+/*TESTIMONIALS PAGE*/
+.READ-What-our-clients-think-about-our-services-and-products {
+  width: 947px;
+  height: 68px;
+  margin: -100px 22px 57px 100px;
+  font-family: "Questrial", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: .9cm;
+  letter-spacing: 6.4px;
+  text-align: center;
+  color: #000;
+  display: block;
+}
+
+img.Testi1 {
+  width: 243px;
+  height: 193px;
+  margin: 57px 24px 0 25px;
+  object-fit: contain;
+  
+}
+
+img.Testi2 {
+  width: 239px;
+  height: 168px;
+  margin: 57px 24px 25px;
+  object-fit: contain;
+
+}
+
+img.Testi3 {
+  width: 240px;
+  height: 167px;
+  margin: 58px 19px 25px 24px;
+  object-fit: contain;
+  
+}
+
+img.Testi4 {
+  width: 239px;
+  height: 254px;
+  margin: 58px 0 19px 30px;
+  position: absolute;
+  
+}
+
+img.Testi5 {
+  width: 242px;
+  height: 255px;
+  margin: 29px 24px 0 25px;
+  object-fit: contain;
+  
+}
+
+img.Testi6 {
+  width: 239px;
+  height: 161px;
+  margin: 25px 24px 123px;
+  object-fit: contain;
+  
+}
+
+img.Testi7 {
+  width: 241px;
+  height: 256px;
+  margin: 0px 18px 28px 24px;
+  object-fit: contain;
+  
+}
+
+img.Testi8 {
+  width: 241px;
+  height: 165px;
+  margin: 110px 3px 38px 31px;
+  position: absolute;
+  
+}
+
+
+/*PRODUCTS PAGE*/
+.title-products{
+  width: 947px;
+  height: 68px;
+  margin: -100px 22px 57px -400px;
+  font-family: "Questrial", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: .9cm;
+  letter-spacing: 6.4px;
+  text-align: center;
+  color: #000;
+  display: block;
+}
+
+.Rectangle-21-products {
+  width: 1440px;
+  height: 1512px;
+  padding: 33px 0 39px 22px;
+  background-image: linear-gradient(306deg, #f9d3ab, #f9d6b0ee , #fff0);
+  position: relative;
+}
+
+.Rectangle-22-products {
+  width: 1263px;
+  height: 1190px;
+  margin: 70px 66px 0 0px;
+  padding: 158px 0 0 83px;
+  background-image: linear-gradient(117deg, #a98255 -12%, #f4f4f4 46%);
+}
+
+img.Cleanser{
+  margin-left: 130px;
+}
+
+img.Serum{
+  margin-left: 130px;
+}
+
+img.Moisturiser{
+  margin-left: 130px;
+}
+
+
+/*CONCERNS*/
+
+.concerns-1{
+  bottom: 470px;
+  position: absolute;
+}
+
+.concerns-2{
+  bottom: 200px;
+  position: absolute;
+}
+
+img.acne {
+  width: 243px;
+  height: 243px;
+  flex-grow: 0;
+  margin: 1px 31px 34px 150px;
+  object-fit: contain;
+}
+
+img.fine-lines {
+  width: 242px;
+  height: 243px;
+  flex-grow: 0;
+  margin: 0 32px 35px;
+  object-fit: contain;
+}
+
+img.dull-skin {
+  width: 240px;
+  height: 242px;
+  flex-grow: 0;
+  margin: 2px 0 34px 32px;
+  object-fit: contain;
+}
+
+img.dry-skin {
+  width: 243px;
+  height: 243px;
+  flex-grow: 0;
+  margin: 34px 31px 0 150px;
+  object-fit: contain;
+}
+
+img.sagging-skin {
+  width: 243px;
+  height: 241px;
+  flex-grow: 0;
+  margin: 35px 32px 1px 31px;
+  object-fit: contain;
+}
+
+img.clogged-pores {
+  width: 236px;
+  height: 237px;
+  flex-grow: 0;
+  margin: 35px 4px 5px 32px;
+  object-fit: contain;
+}
+
+.skin-div{
+  bottom: 115px;
+  position: absolute;
+}
+.SKIN-Ph{
+  width: 933px;
+  height: 71px;
+  margin: 31px 0 0;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.75;
+  letter-spacing: 3.2px;
+  text-align: center;
+  color: #000;
+}
+
+/*SERVICES*/
+
+.adv-skin-treat {
+  width: 947px;
+  height: 0px;
+  margin: 50px 22px 57px 100px;
+  font-family: "Questrial", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: .9cm;
+  letter-spacing: 6.4px;
+  text-align: center;
+  color: #000;
+  display: block;
+}
+
+.services-div{
+  /* bottom: 260px;
+  position: absolute; */
+}
+.services-desc{
+  width: 933px;
+  height: 71px;
+  margin: 31px 0 0;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.75;
+  letter-spacing: 3.2px;
+  text-align: center;
+  color: #000;
+}
+
+img.Targeted-Facials {
+  width: 279px;
+  height: 352px;
+  flex-grow: 0;
+  margin: 2px 10px 0 0;
+  object-fit: contain;
+}
+
+img.dermasound {
+  width: 279px;
+  height: 349px;
+  flex-grow: 0;
+  margin: 2px 10px 3px;
+  object-fit: contain;
+}
+
+img.Microcurrent {
+  width: 279px;
+  height: 351px;
+  flex-grow: 0;
+  margin: 0 10px 3px;
+  object-fit: contain;
+}
+
+img.microbleeding {
+  width: 280px;
+  height: 350px;
+  flex-grow: 0;
+  margin: 0 0 4px 10px;
+  object-fit: contain;
+}
+
+
+/*CONTACT US*/
+
+.get-in{
+  top: 300px;
+  position: absolute; 
+}
+
+.row-1{
+  bottom: 600;
+  position: absolute;
+}
+
+.visit-us-div {
+  position: absolute;
+}
+
+.cont-us-div {
+
+  position: absolute;
+}
+
+.GET-IN-TOUCH {
+  width: 827px;
+  height: 42px;
+  margin: -100px 0 124px;
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.33;
+  letter-spacing: 7.2px;
+  text-align: left;
+  color: #000;
+}
+
+.CONTACT-US {
+  width: 303px;
+  height: 30px;
+  font-family: Questrial;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: 7.2px;
+  text-align: left;
+  color: #000;
+}
+
+.contact-deets {
+  width: 578px;
+  height: 75px;
+  margin: 24px 238px 100px 11px;
+  font-family: Questrial;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.9;
+  letter-spacing: 4px;
+  text-align: left;
+  color: #000;
+}
+
+.VISIT-US {
+  width: 625px;
+  height: 30px;
+  margin: 0px 513px 24px 600px;
+  font-family: Questrial;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.33;
+  letter-spacing: 7.2px;
+  text-align: left;
+  color: #000;
+}
+
+.addr {
+  width: 578px;
+  height: 75px;
+  margin: 10px 52px 0 600px;
+  font-family: Questrial;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.9;
+  letter-spacing: 4px;
+  text-align: left;
+  color: #000;
+  display: inline-block;
+}
+
+.mon {
+  width: 578px;
+  height: 75px;
+  margin: 85px 51px 394px 600px;
+  font-family: Questrial;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.6;
+  letter-spacing: 4px;
+  text-align: left;
+  color: #000;
+}
+
+.sun {
+  width: 578px;
+  height: 75px;
+  margin: 33px 51px 361px 600px;
+  font-family: Questrial;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.6;
+  letter-spacing: 4px;
+  text-align: left;
+  color: #000;
+}
+
+
+
+
+.row-2{
+  bottom: 400px;
+  position: absolute;
+}
+
+.phone-div{
+  position: relative;
+  bottom: 22px
+}
+
+.PHONE {
+  width: 625px;
+  height: 30px;
+  margin: 10px 191px 36px 11px;
+  font-family: Questrial;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.33;
+  letter-spacing: 7.2px;
+  text-align: left;
+  color: #000;
+}
+
+.phone-num {
+      width: 578px;
+      height: 29px;
+      margin: 100px 54px 37px 195px;
+      font-family: Questrial;
+      font-size: 20px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 0.6;
+      letter-spacing: 4px;
+      text-align: left;
+      color: #000;
+}
+
+
+/*TARGETED FACIALS*/
+
+.Custom-Results-Driven-Facials {
+  width: 827px;
+  height: 42px;
+  margin: 19px 45px 0 66px;
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.33;
+  letter-spacing: 7.2px;
+  text-align: left;
+  color: #000;
+}
+
+.custom{
+  position: absolute;
+  bottom: 700px;
+  padding-left: 300px;
+}
+
+.Selecting-to {
+width: 800px;
+margin: 61px 0 54px 55px;
+font-family: "Roboto Condensed", sans-serif;
+font-size: 24px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1;
+letter-spacing: 4.8px;
+text-align: center;
+color: #000;
+position: absolute;
+}
+
+.text-style-1{
+font-weight: bold;
+}
+
+.selecting{
+padding-left: 280px;
+top: 400px;
+position: absolute;
+}
+
+/*MICROCURRENT*/
+
+.micro-bene{
+width: 500px;
+position: absolute;
+top: 250px;
+}
+
+img.non-invasive {
+width: 435px;
+height: 191px;
+margin: 0 96px 10px 0;
+object-fit: contain;
+}
+
+img.anti-aging {
+width: 435px;
+height: 198px;
+margin: 50px 96px 10px 0;
+object-fit: contain;
+}
+
+img.results-in-minutes {
+width: 435px;
+height: 195px;
+margin: 43px 96px 0 0;
+object-fit: contain;
+}
+
+.Lift-Tone{
+position: absolute;
+top: 300px;
+padding: 0 0 0 450px;
+}
+
+.Micro-Current{
+position: absolute;
+top: 300px;
+padding: 0 0 0 450px
+}
+
+.book-your{
+position: absolute;
+top: 800px;
+padding: 0 0 0 450px
+}
+
+.Lift {
+width: 597px;
+height: 145px;
+margin: 46px 0 50px 96px;
+font-family: "Roboto Condensed", sans-serif;
+font-size: 36px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 0.90;
+letter-spacing: 7.2px;
+text-align: center;
+color: #000;
+position: absolute;
+}
+
+.Micro-Current {
+width: 279px;
+height: 351px;
+margin: 179px 160px 50px 254px;
+}
+
+.book-your{
+width: 263px;
+height: 47px;
+margin: 50px 168px 50px 262px;
+}
+
+/* Muzzammil'sCommitmentNo.5(CSSButtonRoundButton) */
+.timeButton {
+background-color: #aa8304; /* Green */
+border: none;
+color: white;
+padding: 5px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 10px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 8px;
+}
+
+.timeDemo {
+text-align: center;
+}
+
+
+.allinone {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+section#media-section{
+  margin-top: 150px;
+}
+
+.media-section-title{
+  font-family: "Questrial", sans-serif;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: .9cm;
+  letter-spacing: 6.4px;
+  text-align: center;
+  color: #000;
+  display: block;
+}
+.allinfo{
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.75;
+  letter-spacing: 3.2px;
+  text-align: center;
+  color: #000;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
+.timeButton{
+  padding: 10px;
+margin-bottom: 15px;
+font-family: "Roboto Condensed", sans-serif;
+font-size: 16px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+}
+div#mouseEventOutput {
+  padding-bottom: 40px;
+}
+
+#heading1{
+font-family: "Questrial", sans-serif;
+font-size: 32px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: .9cm;
+letter-spacing: 6.4px;
+text-align: center;
+color: #000;
+display: block;
+margin-bottom: 40px;
+margin-top: 40px;
+}
+
+
+
+#heading3{
+  margin-bottom: 40px;
+}
+.Rectangle-23 {
+  width: 1263px;
+  height: 651px;
+  margin: 70px 66px 0 0px;
+  padding: 40px 0 0 83px;
+  background-image: linear-gradient(117deg, #a98255 -12%, #f4f4f4 46%);
+  }
+  
