@@ -7,7 +7,7 @@ const Concerns = () => {
                 <span className="READ-What-our-clients-think-about-our-services-and-products">
                     COMMON SKIN CONCERNS WE TREAT
                 </span>
-
+   
                 <div className="concerns-1">
                     <img src="Assets/Acne.png" alt="Acne" className="acne" />
                     <img src="Assets/fine lines.png" alt="Fine Lines" className="fine-lines" />
