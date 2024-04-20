@@ -19,7 +19,7 @@ const Products = () => {
 
     return (
         <>
-
+  
             <div className="Rectangle-22-products">
                 <span className="title-products">PRODUCTS</span>
 
