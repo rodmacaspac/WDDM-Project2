@@ -56,7 +56,7 @@ const Services = () => {
                         </span>
                     </div>
                 
-                </div>  
+                </div>    
 
 
                 <div className="Rectangle-23">
