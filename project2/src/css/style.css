@@ -135,7 +135,7 @@ img.Home-model {
 .READ-What-our-clients-think-about-our-services-and-products {
   width: 947px;
   height: 68px;
-  margin: -100px 22px 57px 100px;
+  margin: 0px 22px 57px 100px;
   font-family: "Questrial", sans-serif;
   font-size: 32px;
   font-weight: normal;
@@ -262,12 +262,12 @@ img.Moisturiser{
 /*CONCERNS*/
 
 .concerns-1{
-  bottom: 470px;
+  bottom: 360px;
   position: absolute;
 }
 
 .concerns-2{
-  bottom: 200px;
+  bottom: 120px;
   position: absolute;
 }
 
@@ -320,7 +320,7 @@ img.clogged-pores {
 }
 
 .skin-div{
-  bottom: 115px;
+  bottom: 45px;
   position: absolute;
 }
 .SKIN-Ph{
@@ -356,10 +356,7 @@ img.clogged-pores {
   display: block;
 }
 
-.services-div{
-  /* bottom: 260px;
-  position: absolute; */
-}
+
 .services-desc{
   width: 933px;
   height: 71px;
@@ -412,12 +409,12 @@ img.microbleeding {
 
 .get-in{
   top: 300px;
-  position: absolute; 
+
 }
 
 .row-1{
-  bottom: 600;
-  position: absolute;
+  bottom: 300;
+
 }
 
 .visit-us-div {

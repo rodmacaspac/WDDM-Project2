@@ -1,4 +1,6 @@
 import {useState} from 'react';
+import { Link } from "react-router-dom";
+
 const Home = () => {
       const [timeDemo,setTimeDemo] = useState("");
       const [details,setDetails] = useState("Click here for more details");
@@ -17,7 +19,7 @@ const Home = () => {
                   <div>
                         <div className="Rectangle-22">
                               {/* <!--Added image on welcome page--> */}
-                              <img src="Assets/Home model.png" className="Home-model" alt="description of image"/>
+                              <img src="Assets/Home model.png" className="Home-model" alt="home model"/>
 
                               {/* <!-- Added Welcome page text --> */}
                               <span className="Your-hub-for-All-Skin-Care-Treatments">
@@ -30,11 +32,11 @@ const Home = () => {
                         <h5 onClick={showMoreDetails}>{details}</h5>
                               
                               {/* <!-- Added Testimonial page link --> */}
-                              <a href="Testimonials.html">
+                              <Link  to="/testimonials" >
                               <span className="TESTIMONIALS">
                               TESTIMONIALS
                               </span>
-                              </a>
+                              </Link>
                         
                         </div>
                         {/* <!--Muzzammil's Commitment No.2 (MouseEvent2)--> */}

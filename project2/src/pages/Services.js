@@ -1,4 +1,5 @@
-import {useState, useEffect, createContext, useContext, useRef, useReducer} from 'react';
+import {useState, useEffect} from 'react';
+import { Link } from "react-router-dom";
 import Footer from './inc/Footer';
 const Services = () => {
 
@@ -29,16 +30,16 @@ const Services = () => {
             
                     {/* <!-- added Services image links --> */}
                     <div className="services">
-                        <a href="Targeted-facial.html" >
-                        <img src="Assets/Targeted Facials.png" className="Targeted-Facials" alt="description of image"/>
-                        </a>
+                        <Link  to="/targetedfacial">
+                        <img src="Assets/Targeted Facials.png" className="Targeted-Facials" alt="TF"/>
+                        </Link>
 
-                        <img src="Assets/dermasound.png" className="dermasound" alt="description of image"/>
+                        <img src="Assets/dermasound.png" className="dermasound" alt="DS"/>
                         
-                        <a href="Microcurrent.html" >
-                        <img src="Assets/Microcurrent.png" className="Microcurrent" alt="description of image"/>
-                        </a>
-                        <img src="Assets/microbleeding.png" className="microbleeding" alt="description of image"/>
+                        <Link  to="/microcurrent">
+                        <img src="Assets/Microcurrent.png" className="Microcurrent" alt="MC"/>
+                        </Link>
+                        <img src="Assets/microbleeding.png" className="microbleeding" alt="MB"/>
                     </div>
                     
                     {/* <!-- Title for Services page --> */}
