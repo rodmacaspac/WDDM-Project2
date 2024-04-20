@@ -27,5 +27,5 @@ const Microcurrent = () => {
         </>
     );
 }
-
+  
 export default Microcurrent;
