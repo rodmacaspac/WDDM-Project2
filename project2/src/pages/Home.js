@@ -27,7 +27,7 @@ const Home = () => {
                               FOR ALL <br/> 
                               SKIN CARE <br/>
                               TREATMENTS <br/> 
-                        </span>
+                        </span>  
                         {/* <!--Muzzammil's Commitment No.1 (MouseEvent1)--> */}
                         <h5 onClick={showMoreDetails}>{details}</h5>
                               
